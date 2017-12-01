@@ -1,5 +1,6 @@
 //Oisin DAke
 //Lab 7
+// Coordinate conversion
 #include <iostream>
 #include <math.h>
 
