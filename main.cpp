@@ -1,5 +1,5 @@
 //Oisin DAke
-//Lav 7
+//Lab 7
 #include <iostream>
 #include <math.h>
 
